@@ -1,4 +1,4 @@
-## Welcome to Tmarcom.com
+## Tmarcom.com
 
 You can use the [editor on GitHub](https://github.com/tomarcom/tmarcom.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
