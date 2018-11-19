@@ -11,8 +11,8 @@ Here I will sometimes post links to some current projects that I'm working on.
 
 ## Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## ```markdown
+## Syntax highlighted code block
 
 # Header 1
 ## Header 2
