@@ -1,6 +1,5 @@
-## TMarcom.com
+## Welcome to tmarcom.com
 
-Welcome to tmarcom.com
 Here I will sometimes post links to some current projects that I'm working on.
 
 
